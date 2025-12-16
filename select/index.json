@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "사랑니 Wisdom Tooth",
+  "base_artist": "아이유",
+  "createdAt": "2025-12-16T17:07:07.402964Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wisdom Tooth (사랑니)",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/01_Wisdom_Tooth_(사랑니)_IU.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "첫 사랑니 (Rum Pum Pum Pum)",
+      "artist": "f(x)",
+      "has_synced": false,
+      "path": "select/02_첫_사랑니_(Rum_Pum_Pum_Pum)_f(x).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "첫 사랑니 (Rum Pum Pum Pum)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/03_첫_사랑니_(Rum_Pum_Pum_Pum)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "첫 사랑니 (Rum Pum Pum Pum)",
+      "artist": "에프엑스(f(x))",
+      "has_synced": true,
+      "path": "select/04_첫_사랑니_(Rum_Pum_Pum_Pum)_에프엑스(f(x)).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "첫 사랑니 Rum Pum Pum Pum",
+      "artist": "F(x)",
+      "has_synced": true,
+      "path": "select/05_첫_사랑니_Rum_Pum_Pum_Pum_F(x).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rum Pum Pum Pum 첫 사랑니",
+      "artist": "K-Pop Nation",
+      "has_synced": false,
+      "path": "select/06_Rum_Pum_Pum_Pum_첫_사랑니_K-Pop_Nation.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "첫 사랑니 (Rum Pum Pum Pum)",
+      "artist": "에프엑스(f(x))",
+      "has_synced": true,
+      "path": "select/07_첫_사랑니_(Rum_Pum_Pum_Pum)_에프엑스(f(x)).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "사랑니",
+      "artist": "아이유",
+      "has_synced": false,
+      "path": "select/pl_01_사랑니_아이유.txt"
+    }
+  ]
+}
